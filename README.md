@@ -1,1 +1,2 @@
-# div-into-dl-notice
+
+动手学深度学习笔记
